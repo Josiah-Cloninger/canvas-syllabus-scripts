@@ -1,0 +1,10 @@
+canvasapi
+certifi
+chardet
+idna
+pdfkit
+pytz
+PyYAML>=6.0
+requests
+six
+urllib3
